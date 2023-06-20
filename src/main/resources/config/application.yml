@@ -1,7 +1,7 @@
 server:
   port: 8080
   servlet:
-    context-path: /mj
+    context-path: /api/midjourney/mj
 logging:
   level:
     ROOT: info
